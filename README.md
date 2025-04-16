@@ -1,6 +1,3 @@
-Sure! Below is a detailed `README.md` documentation for your project:
-
----
 
 # SVG to PDF Conversion Service
 
@@ -178,7 +175,3 @@ This project uses a multi-stage Dockerfile to build and run the application.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you need any further adjustments or improvements!
